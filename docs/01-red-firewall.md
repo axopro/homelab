@@ -47,4 +47,4 @@ cd "/c/Program Files/Oracle/VirtualBox"
 
 ## Siguiente paso
 
-Entrar a la interfaz web (`https://10.10.10.1`) desde una máquina de la red de Gestión y configurar las reglas entre redes.
+Configuración web y reglas entre redes: ver [02-reglas-firewall.md](02-reglas-firewall.md).
